@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_update"
+        android:icon="@drawable/update"
+        android:title="Update monthly budget" />
+    <item
+        android:id="@+id/nav_change_pass"
+        android:icon="@drawable/password"
+        android:title="Change Password" />
+    <item
+        android:id="@+id/nav_aboutUs"
+        android:icon="@drawable/about_us"
+        android:title="About Us" />
+    <item
+        android:id="@+id/nav_generateReport"
+        android:icon="@drawable/report"
+        android:title="Generate Report" />
+
+
+
+</menu>
